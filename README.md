@@ -1,1 +1,1 @@
-# highschool_projects
+# audio-visualizer
